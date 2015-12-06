@@ -61,6 +61,9 @@ konfigūravimo priemonė esanti šioje repozitorijoje veiktų::
     sudo apt install python-pip
     sudo pip install ansible
 
+Tada kompiuterio konfigūravimą galite atlikti taip::
+
+    ansible-playbook setup.yml
 
 Ubuntu diegimas
 ===============
